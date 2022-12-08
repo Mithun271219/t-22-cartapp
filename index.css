@@ -1,0 +1,40 @@
+#nav{
+    position: sticky;
+    top: 0px;
+    width: 100%;
+}
+
+#cener{
+    position: relative;
+    width: 100%;
+    color: rgb(221, 175, 120);
+    background-color: black;
+    text-align: center;
+}
+
+/* #fullscr{
+    width: 100%;
+} */
+
+/* .cartright{
+    position: relative;;
+    float: right;
+    right: 100px;
+} */
+
+img{
+    width: 200px;
+    height: 170px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+input[type="radio"]{
+    display: none;
+}
+
+.star{
+    cursor: pointer;
+}
